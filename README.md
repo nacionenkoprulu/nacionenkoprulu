@@ -1,16 +1,8 @@
-# Hi, I'm Naci Önenköprülü 👋
+# Hi, I'm Naci Önenköprülü | .NET | ANGULAR | REACT | PYTHON👋
 
-I am a **Software Engineer** and a **Master's Student in Artificial Intelligence**.  
-Currently, I am pursuing my Master's degree in Artificial Intelligence at **Muğla Sıtkı Koçman University** (MSKU).
+I am a **Software Engineer**. I'm focused on specializing in .NET, Angular, React, SQL, and cloud platforms in the field of software development. In addition to my professional experience, I actively participate in individual and open-source projects to continuously improve my skills.
 
-## 🚀 Open-Source Projects
-- [BlogProject](https://github.com/nacionenkoprulu/BlogProject) - A blog platform developed with JavaScript.
-- [ETrade_InAppCore](https://github.com/nacionenkoprulu/ETrade_InAppCore) - An e-commerce application built with C#.
-- [ETradeProjectLite](https://github.com/nacionenkoprulu/ETradeProjectLite) - A lightweight e-commerce project.
-- [PersonelBilgiDemo_EF](https://github.com/nacionenkoprulu/PersonelBilgiDemo_EF) - A personnel information system demo using Entity Framework.
-- [restaurantMenu](https://github.com/nacionenkoprulu/restaurantMenu) - A restaurant menu application developed with JavaScript.
-- [NLP](https://github.com/nacionenkoprulu/NLP) - Projects and applications related to Natural Language Processing.
-
+I enjoy working with discipline and learning new things. I make it a priority to stay up-to-date with industry trends by attending courses, seminars, and workshops. My greatest motivation is to work with innovative technologies and deliver projects that create real value.. 
 ---
 
 ### 📊 Profile Statistics
