@@ -1,12 +1,12 @@
 # Hi, I'm Naci Önenköprülü | Full Stack Developer👋
 
-I am a **Software Engineer**. I'm focused on specializing in **.NET, Angular, React, SQL, and cloud platforms** in the field of software development.  
-In addition to my professional experience, I actively participate in individual and open-source projects to continuously improve my skills.
+I am a **Software Engineer** specializing in **.NET, Angular, React, SQL, and Cloud Platforms**. Alongside my professional experience, I actively contribute to **individual and open-source projects** to continuously improve my skills.
 
-I enjoy working with discipline and learning new things. I make it a priority to stay up-to-date with industry trends by attending **courses, seminars, and workshops**.  
-My greatest motivation is to work with **innovative technologies** and deliver projects that **create real value**.
+I am passionate about learning and staying up-to-date with industry trends by attending **courses, seminars, and workshops**.  
+My greatest motivation is to **work with innovative technologies** and deliver **projects that create real value**.
+
+I can support you to realise your dream project. Please contact me.
 ---
-
 ### 📊 Profile Statistics
 ![Profile Views](https://komarev.com/ghpvc/?username=nacionenkoprulu&color=blue)
 
