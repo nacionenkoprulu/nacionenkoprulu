@@ -10,7 +10,7 @@ I can support you to realise your dream project. Please contact me.
 ### 📊 Profile Statistics
 ![Profile Views](https://komarev.com/ghpvc/?username=nacionenkoprulu&color=blue)
 
-📌 I write articles on **[My Personal Blog](#)** and **[Medium](#)**.  
+📌 I write articles on **[Medium](#)**.  
 💬 You can ask me about **.NET, Angular, React, Artificial Intelligence and Deep Learning**.  
 ---
 
